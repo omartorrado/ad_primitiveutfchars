@@ -26,7 +26,7 @@ public class Primitiveutfchars {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        String ruta = "/home/oracle/Desktop/compartido/NetBeansProjects/primitiveutfchars/text3.txt";
+        String ruta = "/home/local/DANIELCASTELAO/otorradomiguez/NetBeansProjects/primitiveutfchars/text3.txt";
         escribir(ruta);
         leer(ruta);
     }
